@@ -1,0 +1,14 @@
+{
+  "name": "jenkins-cicd-demo",
+  "version": "1.0.0",
+  "description": "Jenkins CI/CD demonstration project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "type": "commonjs"
+}
